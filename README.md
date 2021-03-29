@@ -1,7 +1,7 @@
 ### AI_Eight Puzzle
 A sliding puzzle that consists of a frame of numbered square tiles in random order with one tile missing.
 The puzzle also exists in other sizes. If the size is 4×4 tiles, the puzzle is called the 15-puzzle.
-The object of the puzzle is to place the tiles in order (see diagram) by making sliding moves that use the empty space.
+The object of the puzzle is to place the tiles in order by making sliding moves that use the empty space.
 
 ### Implement Search Algorithms to slove the modified 8-puzzle
 > - Breadth-first 
