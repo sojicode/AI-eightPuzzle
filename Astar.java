@@ -12,7 +12,7 @@ import java.util.Set;
  *  
  * H1 = number of tiles that are not in the correct place  
  * H2 = total value of Manhattan distances(all tiles and their correct position, not include zero tile) 
- * H3 = H3 = total value of (manhattanDistance * cost)
+ * H3 = total value of (manhattanDistance * cost)
  * 
  * A* algorithms are faster than BFS because it skips the expanding paths which are expensive. 
  *
